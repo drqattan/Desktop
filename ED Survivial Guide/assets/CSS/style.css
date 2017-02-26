@@ -1,0 +1,42 @@
+<title>Style.css</title>
+
+title {
+	text-align: center;
+}
+
+body { 
+	background-image: url('assets/Media/background.gif');
+	font-family: "Roman", "Times New Roman";		
+	font-size: 50px;
+	stroke-linecap: 150%;
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	line-height: 1.5;
+	
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+#logo {	float: right;
+		width: 100px;
+		height: 100px; 
+			}
+
+footer {
+	color: white;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width:100%;
+	padding: 0.25rem;
+	text-align: center;
+	background-color: #555;
+	margin: 0;
+	display: block;
+	clear: both;
+	position: fixed;
+}	
